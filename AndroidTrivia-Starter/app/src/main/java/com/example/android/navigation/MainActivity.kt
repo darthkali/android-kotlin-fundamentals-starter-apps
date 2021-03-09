@@ -28,13 +28,13 @@ class MainActivity : AppCompatActivity() {
         val binding = DataBindingUtil.setContentView<ActivityMainBinding>(this, R.layout.activity_main)
     }
 
-    // TODO (01) Create the new TitleFragment
+    // TODO (01) Create the new TitleFragment.kt
     // Select File->New->Fragment->Fragment (Blank)
 
-    // TODO (02) Clean up the new TitleFragment
-    // In our new TitleFragment
+    // TODO (02) Clean up the new TitleFragment.kt
+    // In our new TitleFragment.kt
 
     // TODO (03) Use DataBindingUtil.inflate to inflate and return the titleFragment in onCreateView
-    // In our new TitleFragment
+    // In our new TitleFragment.kt
     // R.layout.fragment_title
 }
